@@ -1,0 +1,13 @@
+h1 {
+    color: #fff;
+    padding-top: 0.5em;
+    margin-top: 0;
+}
+
+.headerContainer {
+    background: purple;
+    height: 7vh;
+    width: 100vw;
+   
+}
+
